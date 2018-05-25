@@ -1,0 +1,1 @@
+This is a small demo in R of Conformal Prediction given in Prof. Glenn Shafer's class in Spring 2018. Compares the prediction regions obtained from simple linear regression with conformal prediction using linear regression. Uses the R package "ConformalInference"
